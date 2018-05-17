@@ -1,5 +1,3 @@
-.. image:: https://user-images.githubusercontent.com/32463/39790649-1e029fc6-52ec-11e8-8e51-845f1f77dd58.png
-
 
 WeAreDevelopers Slack Workshop Bot
 =============================
