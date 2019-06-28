@@ -1,3 +1,9 @@
+This repository has been archived
+=================================
+
+Thanks for checking out this Slack Platform code. Occasionally we archive our repos to allow us to focus on the more up to date samples. We're leaving this live as a reference.
+
+To see the latest samples, checkout out this list - https://github.com/slackapi/sample-code-index
 
 WeAreDevelopers Slack Workshop Bot
 =============================
